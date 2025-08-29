@@ -45,5 +45,11 @@ Use case diagrams are visual tools that depict a system's functional requirement
 
 Their benefits include providing a clear, user-centric view of system functionality, improving communication among stakeholders by offering a common visual language, aiding in requirement analysis to identify user goals and potential issues, and facilitating project scoping by allowing for a phased development approach.
 
+# Acceptance Criteria
+Are crucial in requirement analysis because they establish clear, testable conditions that a feature or product must meet to be considered complete and acceptable by stakeholders, thereby ensuring a shared understanding of expectations, preventing scope creep, facilitating testing, and supporting accurate planning and development.
+
+Example
+Given a logged-in user has a confirmed booking, when they proceed to the payment step and their card is valid, then their payment is processed, the booking status is updated, and they receive a confirmation email with booking details
+
 
 
