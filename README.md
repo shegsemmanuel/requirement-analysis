@@ -20,7 +20,22 @@ Requirement Documentaion: is a formal, written description of the attributes, ca
 
 Requirement Analysis and Modeling: is a crucial software development process that involves understanding and documenting stakeholder needs (analysis) and then representing these needs visually (modeling) to create a clear blueprint for the system to be built.
 
-Requirement validation: is the process of confirming that a set of requirements for a system or product accurately reflects the true needs and expectations of the stakeholders, ensuring they are complete, consistent, and align with the customer's goals rather than just checking if they are written correctly
+Requirement validation: is the process of confirming that a set of requirements for a system or product accurately reflects the true needs and expectations of the stakeholders, ensuring they are complete, consistent, and align with the customer's goals rather than just checking if they are written correctly..
+
+#  Functional Requirements 
+specify what a system should do, outlining the features, tasks, and operations it must perform for users and stakeholders. example
+E-commerce Site:
+The system must allow users to browse products, add them to a cart, and complete a secure checkout process using major credit cards. 
+
+Online Banking:
+Users should be able to log in with their username and password and view their account balance. 
+
+# Non Functional Requirements
+specify the quality attributes and operational constraints of a system, defining how the system should perform rather than what specific functions it performs. example
+Performance: The system must load a page within 3 seconds. 
+Security: The system must encrypt user data to prevent unauthorized access. 
+Usability: The system must be intuitive and easy for new users to navigate. 
+Reliability: The system should have 99.9% uptime. 
 
 
 
