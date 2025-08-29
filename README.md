@@ -40,5 +40,10 @@ Security: The system must encrypt user data to prevent unauthorized access.
 Usability: The system must be intuitive and easy for new users to navigate. 
 Reliability: The system should have 99.9% uptime. 
 
+# Use Case Diagrams
+Use case diagrams are visual tools that depict a system's functional requirements by showing interactions between system users (actors) and the system's functionalities (use cases).
+
+Their benefits include providing a clear, user-centric view of system functionality, improving communication among stakeholders by offering a common visual language, aiding in requirement analysis to identify user goals and potential issues, and facilitating project scoping by allowing for a phased development approach.
+
 
 
