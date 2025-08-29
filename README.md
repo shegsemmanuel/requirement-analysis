@@ -22,8 +22,10 @@ Requirement Analysis and Modeling: is a crucial software development process tha
 
 Requirement validation: is the process of confirming that a set of requirements for a system or product accurately reflects the true needs and expectations of the stakeholders, ensuring they are complete, consistent, and align with the customer's goals rather than just checking if they are written correctly..
 
-#  Functional Requirements 
+#  Types of Requirementsts 
+# Functional Requirement
 specify what a system should do, outlining the features, tasks, and operations it must perform for users and stakeholders. example
+
 E-commerce Site:
 The system must allow users to browse products, add them to a cart, and complete a secure checkout process using major credit cards. 
 
@@ -32,6 +34,7 @@ Users should be able to log in with their username and password and view their a
 
 # Non Functional Requirements
 specify the quality attributes and operational constraints of a system, defining how the system should perform rather than what specific functions it performs. example
+
 Performance: The system must load a page within 3 seconds. 
 Security: The system must encrypt user data to prevent unauthorized access. 
 Usability: The system must be intuitive and easy for new users to navigate. 
